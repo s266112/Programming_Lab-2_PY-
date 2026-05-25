@@ -1,5 +1,54 @@
+# Ambienti virtuali
 lab2/
+venv/
+env/
+.venv/
+
+# File di cache Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Notebook Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.nbconvert.ipynb
+
+# File di sistema Windows
+desktop.ini
+Thumbs.db
+$RECYCLE.BIN/
+*.lnk
+
+# File di sistema macOS
 .DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# File di sistema Linux
+*.swp
+*.swo
+*~
+
+# Log e database locali
 *.log
+*.sqlite
+*.sqlite3
+*.db
+
+# File di configurazione locali
+.env
+.env.*
+*.local
+
+# File generati da editor
+.vscode/settings.json (se non vuoi condividere le impostazioni)
+*.code-workspace (se non vuoi condividere workspace)
+
+# File di distribuzione
+dist/
+build/
+*.egg-info/
+*.egg

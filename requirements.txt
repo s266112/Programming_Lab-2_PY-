@@ -1,0 +1,15 @@
+# Corso Programming Lab 2 - Python per data analysis
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+statsmodels
+datasets
+plotly
+dash
+
+# Jupyter
+jupyter
+ipykernel
